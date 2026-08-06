@@ -115,16 +115,6 @@ npm run dev
 
 ---
 
-## 📸 Preview
-
-Adicione um print ou GIF do projeto.
-
-```md
-<img src="./.github/preview.png" width="100%">
-```
-
----
-
 ## 🔗 Repositório
 
 https://github.com/MiguelS-Dev/hairday-template-main
